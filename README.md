@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋, I’m **Ummulkhair Osman-Watara** — a Biomedical Engineering graduate exploring the intersection of research, data, and technology.
 
-<!--
-**watara07/watara07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building projects in **Power BI**
+- 🌱 Expanding into **Excel, SQL, and Python** for data analytics
+- 🧠 Completed computational neuroscience summer schools; exploring data-driven brain research
+- 💡 Passionate about using data to improve healthcare and innovation
+- 🤝 Open to collaboration, mentorship, and idea-sharing
+- 📫 Reach me: **uosmanwatara@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Quick note
+This GitHub is a **work in progress** — I’ll be posting dashboards, analytics scripts, and neuroscience-inspired projects as I grow my portfolio.  
+💡 *All tips, tricks, and advice to enhance my portfolio are warmly welcomed!*
