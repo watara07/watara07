@@ -10,4 +10,4 @@ Hi there 👋, I’m **Ummulkhair Osman-Watara** — a Biomedical Engineering gr
 ---
 
 ### ⚡ Quick note
-This GitHub is a work in progress — I’ll be posting dashboards, analytics scripts, and neuroscience-inspired projects as I expand my portfolio. 💡 All tips, tricks, and advice to enhance my work are warmly welcomed!
+This GitHub is a work in progress — I’ll be posting dashboards, analytics scripts, and biomedically-inspired projects as I expand my portfolio. 💡 All tips, tricks, and advice to enhance my work are warmly welcomed!
